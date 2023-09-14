@@ -1,0 +1,12 @@
+.App {
+    display: flex;
+    flex-direction: row;
+}
+
+.LikeButtonA {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 50px;
+}
